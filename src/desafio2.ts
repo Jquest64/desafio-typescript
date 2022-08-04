@@ -1,5 +1,3 @@
-// Como podemos melhorar o esse código usando TS? 
-
 enum Profissao {
     Atriz,
     Padeiro

@@ -1,5 +1,4 @@
 "use strict";
-// Como podemos melhorar o esse código usando TS? 
 var Profissao;
 (function (Profissao) {
     Profissao[Profissao["Atriz"] = 0] = "Atriz";
